@@ -17,9 +17,9 @@ I build production-grade, offline-first desktop applications: full-stack TypeScr
 - Internationalization and accessibility (RTL/LTR, light/dark) built in from the start, not bolted on.
 - Security-conscious by habit: signed payloads, hashed secrets, least-privilege service boundaries.
 
-**Currently**
+**Projects**
 
-Building commercial desktop software for small-business operations (POS, subscriptions, invoicing, analytics) — private for now while it's in commercial use, with open-source projects on the way.
+Public projects will be listed here as they're released.
 
 ---
 
